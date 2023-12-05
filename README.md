@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+### 💖 I’m running a pretty cool web dev agency with my wife. [kiwikiwi](https://kiwikiwi.se)
+We do mindblowing design and work with Laravel and Statamic.
+
+### 📉 We also run a price comparison website in Bosnia. [Cjenolov](https://cjenolov.ba)
+
+
 
 <!--
 **eminos/eminos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
